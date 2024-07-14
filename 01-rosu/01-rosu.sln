@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_13-citiri-scrieri-cpp", "01-elemente-de-baza\13-citiri-scrieri-cpp\13-citiri-scrieri-cpp.vcxproj", "{F864E8D5-3861-41B3-8B14-6A97DBC6B0E1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_14-citiri-scrieri-c", "01-elemente-de-baza\1_14-citiri-scrieri-c\1_14-citiri-scrieri-c.vcxproj", "{D524A0C3-D729-4291-AB19-E0EADDE1AD8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F864E8D5-3861-41B3-8B14-6A97DBC6B0E1}.Release|x64.Build.0 = Release|x64
 		{F864E8D5-3861-41B3-8B14-6A97DBC6B0E1}.Release|x86.ActiveCfg = Release|Win32
 		{F864E8D5-3861-41B3-8B14-6A97DBC6B0E1}.Release|x86.Build.0 = Release|Win32
+		{D524A0C3-D729-4291-AB19-E0EADDE1AD8E}.Debug|x64.ActiveCfg = Debug|x64
+		{D524A0C3-D729-4291-AB19-E0EADDE1AD8E}.Debug|x64.Build.0 = Debug|x64
+		{D524A0C3-D729-4291-AB19-E0EADDE1AD8E}.Debug|x86.ActiveCfg = Debug|Win32
+		{D524A0C3-D729-4291-AB19-E0EADDE1AD8E}.Debug|x86.Build.0 = Debug|Win32
+		{D524A0C3-D729-4291-AB19-E0EADDE1AD8E}.Release|x64.ActiveCfg = Release|x64
+		{D524A0C3-D729-4291-AB19-E0EADDE1AD8E}.Release|x64.Build.0 = Release|x64
+		{D524A0C3-D729-4291-AB19-E0EADDE1AD8E}.Release|x86.ActiveCfg = Release|Win32
+		{D524A0C3-D729-4291-AB19-E0EADDE1AD8E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
