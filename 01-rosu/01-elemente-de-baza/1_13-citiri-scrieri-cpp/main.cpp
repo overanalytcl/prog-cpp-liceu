@@ -6,7 +6,7 @@ int main()
 {
 	int x;
 	cout << "x = "; cin >> x;
-	cout << "Valoarea lui x este " << x << '\n';
-	cout << "Valoarea lui a este " << a << '\n';
+	cout << "Valoarea lui x este " << x << endl;
+	cout << "Valoarea lui a este " << a << endl;
 	return 0;
 }
