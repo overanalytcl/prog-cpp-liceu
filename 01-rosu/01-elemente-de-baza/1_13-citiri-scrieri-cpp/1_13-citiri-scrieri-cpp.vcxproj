@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f864e8d5-3861-41b3-8b14-6a97dbc6b0e1}</ProjectGuid>
+    <ProjectGuid>{ED675C2E-3153-482E-AA91-1E964F62BE1B}</ProjectGuid>
     <RootNamespace>My13citiriscriericpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>1_13-citiri-scrieri-cpp</ProjectName>
