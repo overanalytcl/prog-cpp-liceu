@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_14-citiri-scrieri-c", "01
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_13-citiri-scrieri-cpp", "01-elemente-de-baza\1_13-citiri-scrieri-cpp\1_13-citiri-scrieri-cpp.vcxproj", "{ED675C2E-3153-482E-AA91-1E964F62BE1B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_15-expresii", "1_15-expresii\1_15-expresii.vcxproj", "{20CEFBB1-9F21-4294-981D-68D4A9FCAAF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{ED675C2E-3153-482E-AA91-1E964F62BE1B}.Release|x64.Build.0 = Release|x64
 		{ED675C2E-3153-482E-AA91-1E964F62BE1B}.Release|x86.ActiveCfg = Release|Win32
 		{ED675C2E-3153-482E-AA91-1E964F62BE1B}.Release|x86.Build.0 = Release|Win32
+		{20CEFBB1-9F21-4294-981D-68D4A9FCAAF7}.Debug|x64.ActiveCfg = Debug|x64
+		{20CEFBB1-9F21-4294-981D-68D4A9FCAAF7}.Debug|x64.Build.0 = Debug|x64
+		{20CEFBB1-9F21-4294-981D-68D4A9FCAAF7}.Debug|x86.ActiveCfg = Debug|Win32
+		{20CEFBB1-9F21-4294-981D-68D4A9FCAAF7}.Debug|x86.Build.0 = Debug|Win32
+		{20CEFBB1-9F21-4294-981D-68D4A9FCAAF7}.Release|x64.ActiveCfg = Release|x64
+		{20CEFBB1-9F21-4294-981D-68D4A9FCAAF7}.Release|x64.Build.0 = Release|x64
+		{20CEFBB1-9F21-4294-981D-68D4A9FCAAF7}.Release|x86.ActiveCfg = Release|Win32
+		{20CEFBB1-9F21-4294-981D-68D4A9FCAAF7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
